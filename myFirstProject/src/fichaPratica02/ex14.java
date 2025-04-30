@@ -53,11 +53,7 @@ public class ex14 {
             }
         }
 
-
-        System.out.println(menor + "      "+intermedio + "      " + maior);
-
-
-
+        System.out.println(menor + "      "+intermedio + "      " + maior + "$");
 
     }
 }

@@ -9,9 +9,15 @@ public class ex04 {
         int numero= input.nextInt();
 
 
-        for (int i = 0; i <= numero; i++) {
-            System.out.println(i);
-        }
+int i= numero;
+
+while(i>=0) {
+    System.out.println(numero-i);
+    i--;
+
+
+
+}
 
 
 

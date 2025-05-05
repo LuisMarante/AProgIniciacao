@@ -28,16 +28,8 @@ public class ex12 {
                     quarteiraoQuatro++;
                 } else {
                     System.out.println("coloque um numero menor ou igual a 100");
-
-                    
                 }
-
-
             }
-
-
         }
-
-
     }
 }

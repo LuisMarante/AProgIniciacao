@@ -9,7 +9,7 @@ public class ex09 {
         int contador=0;
         int num=0;
         int total=0;
-        double media=0;
+        double media;
 
         while(num!=-1) {
             System.out.println("Introduza um número: ");

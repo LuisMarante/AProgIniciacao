@@ -20,12 +20,11 @@ public class ex14 {
             i++;
             System.out.println("insira um numero");
             numero2= input.nextInt();
-            if (numero2-numero1>0){
+            if (numero2>numero1){
                 numSucesso++;
             }
             numero1=numero2;
         }
-
         if (numSucesso==i){
             System.out.println("É crescente");
         } else {

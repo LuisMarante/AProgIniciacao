@@ -14,7 +14,6 @@ public class ex11 {
                 arr[i][j] = input.nextInt();
             }
         }
-
         int menor = arr[0][0];
         int maior = arr[0][0];
 

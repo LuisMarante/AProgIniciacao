@@ -12,6 +12,16 @@ public class Planta extends SerVivo {
         this.familiaPlantas = familiaPlantas;
         this.grauDefesa = grauDefesa;
     }
+    public void exibirDetalhes() {
 
+        System.out.println(this.nome + " | " + this.especie + " | " + this.pais + " | " + this.idade + " | " + this.familiaPlantas+ " | " +this.grauDefesa );
+    }
 
+    public FamiliaPlantas getFamiliaPlantas() {
+        return familiaPlantas;
+    }
+
+    public int getGrauDefesa() {
+        return grauDefesa;
+    }
 }

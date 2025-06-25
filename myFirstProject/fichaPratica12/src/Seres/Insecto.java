@@ -8,4 +8,9 @@ private boolean venenoso;
         super(nome, especie, pais, idade);
         this.venenoso = venenoso;
     }
+
+    public void exibirDetalhes() {
+
+        System.out.println(this.nome + " | " + this.especie + " | " + this.pais + " | " + this.idade + " | " + this.venenoso );
+    }
 }

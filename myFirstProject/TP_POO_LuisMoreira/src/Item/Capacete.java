@@ -1,0 +1,26 @@
+package Item;
+
+public class Capacete extends  Item{
+
+
+    private int defesa;
+
+    public Capacete(String nome, String descricao, int preco, int defesa) {
+        super(nome, descricao, preco);
+        this.defesa = defesa;
+    }
+
+
+    /**
+     * Função que imprime todas as informações do item do tipo Capacete
+     */
+    @Override
+    public void exibirDetalhes(){
+        System.out.println( getClass().getSimpleName() + " === Nome: " + getNome() + " | Descrição: " + getDescricao() + " | Preço: " + getPreco() + " | Defesa: " + getDefesa());
+
+    }
+
+    public int getDefesa() {
+        return defesa;
+    }
+}

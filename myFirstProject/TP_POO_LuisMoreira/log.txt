@@ -1,0 +1,126 @@
+Começou o jogo
+O vendedor está a criar o stock...
+O herói entrou na loja
+Poção de vida | 10
+Pão de Lembas | 20
+Athelas, Kingsfoil | 30
+Poção de energia | 10
+Luz de Earendil | 30
+Miruvor | 30
+Luvas grossas | 10
+Botas de armadura fina | 10
+Capacete fechado | 10
+Manto simples | 10
+Armadura dos Noldor | 30
+Espada de Gondolin | 80
+O heroi tentou comprar o item 12
+Poção de vida | 10
+Pão de Lembas | 20
+Athelas, Kingsfoil | 30
+Poção de energia | 10
+Luz de Earendil | 30
+Miruvor | 30
+Luvas grossas | 10
+Botas de armadura fina | 10
+Capacete fechado | 10
+Manto simples | 10
+Armadura dos Noldor | 30
+Espada de Gondolin | 80
+O heroi tentou comprar o item 1
+Poção de vida | 10
+Pão de Lembas | 20
+Athelas, Kingsfoil | 30
+Poção de energia | 10
+Luz de Earendil | 30
+Miruvor | 30
+Luvas grossas | 10
+Botas de armadura fina | 10
+Capacete fechado | 10
+Manto simples | 10
+Armadura dos Noldor | 30
+Espada de Gondolin | 80
+O heroi tentou comprar o item 0
+O combate começou agora
+O heroi selecionou ataque: 1
+Vida do heroi: 334.0
+Vida NPC: 170.0/170.0
+O heroi selecionou ataque: 2
+Vida do heroi: 324.0
+Vida NPC: 67.79999999999998/170.0
+O combate começou agora
+O heroi selecionou ataque: 0
+Vida do heroi: 314.0
+Vida NPC: 169.0/169.0
+O combate começou agora
+Começou o jogo
+Começou o jogo
+O vendedor está a criar o stock...
+O herói entrou na loja
+Poção de vida | 10
+Pão de Lembas | 20
+Athelas, Kingsfoil | 30
+Poção de energia | 10
+Luz de Earendil | 30
+Miruvor | 30
+Luvas de aço forjado | 20
+Botas de armadura grossa | 20
+Dragon-helm de Dor-lómin | 40
+Manto de Imladris | 50
+Armadura dos Noldor | 30
+Aeglos | 50
+O heroi tentou comprar o item 13
+Poção de vida | 10
+Pão de Lembas | 20
+Athelas, Kingsfoil | 30
+Poção de energia | 10
+Luz de Earendil | 30
+Miruvor | 30
+Luvas de aço forjado | 20
+Botas de armadura grossa | 20
+Dragon-helm de Dor-lómin | 40
+Manto de Imladris | 50
+Armadura dos Noldor | 30
+Aeglos | 50
+O heroi tentou comprar o item 0
+O combate começou agora
+O heroi selecionou ataque: 2
+Vida do heroi: 333.0
+Vida NPC: 215.0/215.0
+O heroi selecionou ataque: 1
+Vida do heroi: 323.0
+Vida NPC: 151.0/215.0
+O heroi selecionou ataque: 1
+Vida do heroi: 313.0
+Vida NPC: 108.20000000000002/215.0
+O heroi selecionou ataque: 2
+Vida do heroi: 303.0
+Vida NPC: 85.30000000000001/215.0
+O heroi selecionou ataque: 3
+Vida do heroi: 303.0
+Vida NPC: 85.30000000000001/215.0
+O combate começou agora
+O heroi selecionou ataque: 2
+Vida do heroi: 303.0
+Vida NPC: 123.0/123.0
+O heroi selecionou ataque: 1
+Vida do heroi: 293.0
+Vida NPC: 56.0/123.0
+O heroi selecionou ataque: 1
+Vida do heroi: 283.0
+Vida NPC: 9.799999999999983/123.0
+O combate começou agora
+O heroi selecionou ataque: 1
+Vida do heroi: 273.0
+Vida NPC: 133.0/133.0
+O heroi selecionou ataque: 1
+Vida do heroi: 263.0
+Vida NPC: 93.70000000000002/133.0
+O heroi selecionou ataque: 2
+Vida do heroi: 253.0
+Vida NPC: 74.30000000000003/133.0
+O heroi selecionou ataque: 2
+Vida do heroi: 243.0
+Vida NPC: 64.30000000000003/133.0
+O heroi selecionou ataque: 3
+Vida do heroi: 243.0
+Vida NPC: 64.30000000000003/133.0

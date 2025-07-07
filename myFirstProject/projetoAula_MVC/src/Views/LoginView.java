@@ -32,8 +32,7 @@ public class LoginView {
             switch (opcaoLogin) {
                 case 1:
                     // CLIENTE
-                    ClientView cv = new ClientView();
-                    cv.clientMenu();
+
                     break;
 
                 case 2:
@@ -70,13 +69,11 @@ public class LoginView {
 
             switch (accessType) {
                 case "ADMIN":
-                    AdminView av = new AdminView();
-                    av.adminMenu();
+
                     break;
 
-                case "FUNC":
-                    StaffView sv = new StaffView();
-                    sv.staffMenu();
+                case "ENG":
+
                     break;
 
                 case "ERROR":

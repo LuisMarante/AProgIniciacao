@@ -40,6 +40,6 @@ public class Attraction {
 
     @Override
     public String toString() {
-        return  "Name: " + name + " |  Preço de adulto: " + adultPrice +"€ | Preço de criança: " + childrenPrice + "€ | Duração: " + duration;
+        return  "Name: " + this.name + " |  Preço de adulto: " + adultPrice +"€ | Preço de criança: " + childrenPrice + "€ | Duração: " + duration;
     }
 }
